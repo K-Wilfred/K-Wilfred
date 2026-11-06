@@ -42,14 +42,13 @@ I'm not a software engineer. I'm learning to build with AI, one working piece at
 ## 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=K-Wilfred&show_icons=true&hide_border=true&bg_color=0b1410&title_color=f6b93b&icon_color=3ecf8e&text_color=e8efe9" alt="GitHub stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=K-Wilfred&hide_border=true&background=0b1410&ring=f6b93b&fire=e58e26&currStreakLabel=f6b93b&sideLabels=e8efe9&currStreakNum=e8efe9&sideNums=e8efe9&dates=9fb3a8" alt="Streak" />
 </p>
 
 ## 🐍 Contribution snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/K-Wilfred/K-Wilfred/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+  <img src="./snake.svg" alt="Contribution snake" />
 </p>
 
 ## 🤝 Connect
