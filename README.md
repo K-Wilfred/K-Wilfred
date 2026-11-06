@@ -57,7 +57,7 @@ My goal is simple: take a tool that works for one family business and turn it in
 ## ⌘ Now building
 
 ```text
-outreach_engine ........ [#######---] in progress
+outreach_engine ........ [###-------] setting up the database
 buyer_tracker .......... [########--] working prototype
 buyerscope ............. [#---------] idea stage
 ```
