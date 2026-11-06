@@ -99,4 +99,4 @@ buyerscope ............. [#---------] idea stage
 
 <p align="center"><i>"Build the small thing that works, then build the next one."</i></p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3a3a3a&height=100&section=footer" width="100%" /></p>
+<p align="center"><img src="./footer.svg" alt="Thanks for stopping by" width="100%" /></p>
