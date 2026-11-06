@@ -22,7 +22,7 @@
 
 ## ⌘ About me
 
-<p align="center"><img src="./war.svg" alt="UFO flying" width="100%" /></p>
+<p align="center"><img src="./war.svg?v=2" alt="UFO flying" width="100%" /></p>
 
 <table>
 <tr>
