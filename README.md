@@ -71,6 +71,7 @@ Tasteio is the in-house brand of Princetouch Condiments, a family-run spice and 
 ## 🤝 Connect
 
 <p>
+  <a href="https://www.linkedin.com/in/wilfredvincent/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://tasteio.in"><img src="https://img.shields.io/badge/Website-tasteio.in-e58e26?style=for-the-badge&logo=shopify&logoColor=white" /></a>
   <a href="https://www.youtube.com/@k.Wilfredvincent"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://www.instagram.com/k.wilfredvincent"><img src="https://img.shields.io/badge/Instagram-@k.wilfredvincent-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
