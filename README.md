@@ -20,58 +20,81 @@
 
 ---
 
-## 👋 About me
+## ⌘ About me
 
-I lead brand and packaging for **Tasteio**, the in-house spice brand at **Princetouch Condiments**, my family's company in Kerala. I came back from Toronto to help build it.
+<table>
+<tr>
+<td valign="top">
+
+**Wilfred** here. I lead brand and packaging for **Tasteio**, the in-house spice brand at **Princetouch Condiments**, my family's company in Kerala. I moved back from Toronto to help build it.
 
 I'm not a software engineer. I'm learning to build with AI, one working piece at a time, and sharing the process as I go.
 
-## 🌶️ Tasteio
+Right now I'm building a system that finds decision-makers at overseas importers and keeps track of every reply, quote and sample.
 
-*From Kerala's finest spices to your kitchen.*
+My goal is simple: take a tool that works for one family business and turn it into something other Indian exporters can use.
 
-Tasteio is the in-house brand of Princetouch Condiments, a family-run spice and pickle maker in Palakkad, Kerala, operating since 1997. Pure spices, masalas, pickles and gift boxes, shipped across India and abroad.
+</td>
+<td width="300" valign="middle">
+  <img src="./about-cat.png" alt="Dithered cat" width="300" />
+</td>
+</tr>
+</table>
 
-<p>
-  <a href="https://tasteio.in"><img src="https://img.shields.io/badge/Shop-tasteio.in-ffffff?style=for-the-badge&logo=shopify&logoColor=black" /></a>
-</p>
+## ⌘ Tasteio
 
-## 🛠️ Now building
+```text
+> brand      Tasteio, by Princetouch Condiments
+> origin     Palakkad, Kerala · family-run since 1997
+> range      spices · masalas · pickles · gift boxes
+> ships      across India and abroad
+```
 
-| Project | What it does | Status |
-| --- | --- | --- |
-| **Outreach engine** | Finds the right decision-makers at overseas importers and drafts precise emails | In progress |
-| **Buyer tracker** | Pipeline of replies, quotes, samples and next steps | Working prototype |
-| **BuyerScope** | A buyer-discovery service for Indian exporters | Idea stage |
+<a href="https://tasteio.in"><img src="https://img.shields.io/badge/SHOP-TASTEIO.IN-ffffff?style=for-the-badge&logo=shopify&logoColor=black" /></a>
 
-## 📚 Currently learning
+## ⌘ Now building
 
-- Databases and how to design them (Supabase and Postgres)
-- Automating research and email outreach
-- Email deliverability: SPF, DKIM and sending safely
-- Building small products with AI, one piece at a time
+```text
+outreach_engine ........ [#######---] in progress
+buyer_tracker .......... [########--] working prototype
+buyerscope ............. [#---------] idea stage
+```
 
-## 🧰 Tools
+## ⌘ Currently learning
 
-<p>
-  <img src="https://img.shields.io/badge/Supabase-161b22?style=for-the-badge&logo=supabase&logoColor=white" />
+```text
+[~] databases ........... Supabase, Postgres
+[~] automation .......... research and email outreach
+[~] deliverability ...... SPF, DKIM, sending safely
+[~] building with AI .... one piece at a time
+```
+
+## ⌘ Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Supabase-161b22?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Workspace-161b22?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zapier-161b22?style=for-the-badge&logo=zapier&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shopify-161b22?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zapier-161b22?style=for-the-badge&logo=zapier&logoColor=FF4F00" />
+  <img src="https://img.shields.io/badge/Shopify-161b22?style=for-the-badge&logo=shopify&logoColor=7AB55C" />
   <img src="https://img.shields.io/badge/Claude-161b22?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
-## 📊 Statistics
+## ⌘ Statistics
 
 <p align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=K-Wilfred&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=cfcfcf&currStreakNum=ffffff&sideNums=ffffff&dates=8a8a8a" alt="Streak" />
 </p>
 
-## 🐍 Contribution snake
+## ⌘ Commit activity
 
 <p align="center">
   <img src="./snake.svg" alt="Contribution snake" />
 </p>
+
+## ⌘ Philosophy
+
+<p align="center"><i>"Build the small thing that works, then build the next one."</i></p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3a3a3a&height=100&section=footer" width="100%" /></p>
