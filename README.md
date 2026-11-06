@@ -15,7 +15,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=K-Wilfred&label=Profile+views&color=2b2b2b&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/K-Wilfred?tab=followers"><img src="https://img.shields.io/github/followers/K-Wilfred?style=for-the-badge&label=FOLLOWERS&labelColor=161b22&color=ffffff&logo=github&logoColor=white" alt="Followers" /></a>
+  <a href="https://github.com/K-Wilfred/space-war-profile-kit/stargazers"><img src="https://img.shields.io/github/stars/K-Wilfred/space-war-profile-kit?style=for-the-badge&label=KIT%20STARS&labelColor=161b22&color=ffffff&logo=github&logoColor=white" alt="Kit stars" /></a>
+  <a href="https://github.com/K-Wilfred/space-war-profile-kit/forks"><img src="https://img.shields.io/github/forks/K-Wilfred/space-war-profile-kit?style=for-the-badge&label=KIT%20FORKS&labelColor=161b22&color=ffffff&logo=github&logoColor=white" alt="Kit forks" /></a>
+  <a href="https://github.com/K-Wilfred/K-Wilfred/commits/main"><img src="https://img.shields.io/github/last-commit/K-Wilfred/K-Wilfred?style=for-the-badge&label=LAST%20UPDATE&labelColor=161b22&color=ffffff" alt="Last update" /></a>
 </p>
 
 ---
