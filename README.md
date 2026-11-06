@@ -35,8 +35,8 @@ Right now I'm building a system that finds decision-makers at overseas importers
 My goal is simple: take a tool that works for one family business and turn it into something other Indian exporters can use.
 
 </td>
-<td width="300" valign="middle">
-  <img src="./about-cat.png" alt="Dithered cat" width="300" />
+<td width="260" valign="middle">
+  <img src="./about-alien.png" alt="Dithered alien" width="260" />
 </td>
 </tr>
 </table>
