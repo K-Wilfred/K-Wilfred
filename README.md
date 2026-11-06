@@ -14,13 +14,6 @@
   <a href="https://www.instagram.com/wilfred_irl"><img src="https://img.shields.io/badge/wilfred__irl-161b22?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/K-Wilfred?tab=followers"><img src="https://img.shields.io/github/followers/K-Wilfred?style=for-the-badge&label=FOLLOWERS&labelColor=161b22&color=ffffff&logo=github&logoColor=white" alt="Followers" /></a>
-  <a href="https://github.com/K-Wilfred/K-Wilfred/commits/main"><img src="https://img.shields.io/github/commit-activity/t/K-Wilfred/K-Wilfred?style=for-the-badge&label=COMMITS&labelColor=161b22&color=ffffff" alt="Commits" /></a>
-  <a href="https://github.com/K-Wilfred?tab=repositories"><img src="https://img.shields.io/github/created-at/K-Wilfred/K-Wilfred?style=for-the-badge&label=ON%20GITHUB%20SINCE&labelColor=161b22&color=ffffff" alt="Joined" /></a>
-  <a href="https://github.com/K-Wilfred/K-Wilfred/commits/main"><img src="https://img.shields.io/github/last-commit/K-Wilfred/K-Wilfred?style=for-the-badge&label=LAST%20UPDATE&labelColor=161b22&color=ffffff" alt="Last update" /></a>
-</p>
-
 ---
 
 ## ⌘ About me
