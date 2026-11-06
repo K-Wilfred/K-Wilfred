@@ -55,6 +55,8 @@ I'm not a software engineer. I'm learning to build with AI, one working piece at
 
 <p>
   <a href="https://www.youtube.com/@k.Wilfredvincent"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.instagram.com/k.wilfredvincent"><img src="https://img.shields.io/badge/Instagram-@k.wilfredvincent-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/wilfred_irl"><img src="https://img.shields.io/badge/Instagram-@wilfred__irl-C13584?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:10261c,100:e58e26&height=100&section=footer" width="100%" /></p>
