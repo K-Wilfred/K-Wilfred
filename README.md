@@ -22,6 +22,8 @@
 
 ## ⌘ About me
 
+<p align="center"><img src="./ufo.svg" alt="UFO flying" width="100%" /></p>
+
 <table>
 <tr>
 <td valign="top">
