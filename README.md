@@ -95,6 +95,12 @@ buyerscope ............. [#---------] idea stage
   <img src="./snake.svg" alt="Contribution snake" />
 </p>
 
+## ⌘ Open source
+
+<a href="https://github.com/K-Wilfred/space-war-profile-kit"><img src="https://img.shields.io/badge/SPACE_WAR_PROFILE_KIT-GET_THE_CODE-ffffff?style=for-the-badge&logo=github&logoColor=black" /></a>
+
+Want the space war strip and the dithered look on your own profile? The scripts and a step-by-step guide are free in this repo.
+
 ## ⌘ Philosophy
 
 <p align="center"><i>"Build the small thing that works, then build the next one."</i></p>
