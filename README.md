@@ -3,13 +3,19 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=F6B93B&center=true&vCenter=true&width=700&lines=Kerala+spices%2C+found+and+sold+to+the+world;Building+an+AI+buyer-research+system+in+public;Not+a+developer.+Learning+to+build+anyway." alt="Typing animation" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Kerala+spices%2C+found+and+sold+to+the+world;Building+an+AI+buyer-research+system+in+public;Not+a+developer.+Learning+to+build+anyway." alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=K-Wilfred&label=Profile+views&color=e58e26&style=flat-square" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/wilfredvincent/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://tasteio.in"><img src="https://img.shields.io/badge/Tasteio-161b22?style=for-the-badge&logo=shopify&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@k.Wilfredvincent"><img src="https://img.shields.io/badge/YouTube-161b22?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.instagram.com/k.wilfredvincent"><img src="https://img.shields.io/badge/k.wilfredvincent-161b22?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/wilfred_irl"><img src="https://img.shields.io/badge/wilfred__irl-161b22?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=K-Wilfred&label=Profile+views&color=2b2b2b&style=flat-square" alt="Profile views" />
 </p>
 
 ---
@@ -27,7 +33,7 @@ I'm not a software engineer. I'm learning to build with AI, one working piece at
 Tasteio is the in-house brand of Princetouch Condiments, a family-run spice and pickle maker in Palakkad, Kerala, operating since 1997. Pure spices, masalas, pickles and gift boxes, shipped across India and abroad.
 
 <p>
-  <a href="https://tasteio.in"><img src="https://img.shields.io/badge/Shop-tasteio.in-e58e26?style=for-the-badge&logo=shopify&logoColor=white" /></a>
+  <a href="https://tasteio.in"><img src="https://img.shields.io/badge/Shop-tasteio.in-ffffff?style=for-the-badge&logo=shopify&logoColor=black" /></a>
 </p>
 
 ## 🛠️ Now building
@@ -48,18 +54,18 @@ Tasteio is the in-house brand of Princetouch Condiments, a family-run spice and 
 ## 🧰 Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-161b22?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Workspace-161b22?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zapier-161b22?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify-161b22?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-161b22?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
-## 📊 Stats
+## 📊 Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=K-Wilfred&hide_border=true&background=0b1410&ring=f6b93b&fire=e58e26&currStreakLabel=f6b93b&sideLabels=e8efe9&currStreakNum=e8efe9&sideNums=e8efe9&dates=9fb3a8" alt="Streak" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=K-Wilfred&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=cfcfcf&currStreakNum=ffffff&sideNums=ffffff&dates=8a8a8a" alt="Streak" />
 </p>
 
 ## 🐍 Contribution snake
@@ -68,14 +74,4 @@ Tasteio is the in-house brand of Princetouch Condiments, a family-run spice and 
   <img src="./snake.svg" alt="Contribution snake" />
 </p>
 
-## 🤝 Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/wilfredvincent/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://tasteio.in"><img src="https://img.shields.io/badge/Website-tasteio.in-e58e26?style=for-the-badge&logo=shopify&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@k.Wilfredvincent"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.instagram.com/k.wilfredvincent"><img src="https://img.shields.io/badge/Instagram-@k.wilfredvincent-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.instagram.com/wilfred_irl"><img src="https://img.shields.io/badge/Instagram-@wilfred__irl-C13584?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:10261c,100:e58e26&height=100&section=footer" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3a3a3a&height=100&section=footer" width="100%" /></p>
