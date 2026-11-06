@@ -18,7 +18,7 @@
 
 ## ⌘ About me
 
-<p align="center"><img src="./war.svg?v=3" alt="UFO flying" width="100%" /></p>
+<p align="center"><img src="./war-center.svg" alt="UFO flying" width="100%" /></p>
 
 <table>
 <tr>
