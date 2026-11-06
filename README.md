@@ -20,6 +20,16 @@ I lead brand and packaging for **Tasteio**, the in-house spice brand at **Prince
 
 I'm not a software engineer. I'm learning to build with AI, one working piece at a time, and sharing the process as I go.
 
+## 🌶️ Tasteio
+
+*From Kerala's finest spices to your kitchen.*
+
+Tasteio is the in-house brand of Princetouch Condiments, a family-run spice and pickle maker in Palakkad, Kerala, operating since 1997. Pure spices, masalas, pickles and gift boxes, shipped across India and abroad.
+
+<p>
+  <a href="https://tasteio.in"><img src="https://img.shields.io/badge/Shop-tasteio.in-e58e26?style=for-the-badge&logo=shopify&logoColor=white" /></a>
+</p>
+
 ## 🛠️ Now building
 
 | Project | What it does | Status |
@@ -27,6 +37,13 @@ I'm not a software engineer. I'm learning to build with AI, one working piece at
 | **Outreach engine** | Finds the right decision-makers at overseas importers and drafts precise emails | In progress |
 | **Buyer tracker** | Pipeline of replies, quotes, samples and next steps | Working prototype |
 | **BuyerScope** | A buyer-discovery service for Indian exporters | Idea stage |
+
+## 📚 Currently learning
+
+- Databases and how to design them (Supabase and Postgres)
+- Automating research and email outreach
+- Email deliverability: SPF, DKIM and sending safely
+- Building small products with AI, one piece at a time
 
 ## 🧰 Tools
 
@@ -54,6 +71,7 @@ I'm not a software engineer. I'm learning to build with AI, one working piece at
 ## 🤝 Connect
 
 <p>
+  <a href="https://tasteio.in"><img src="https://img.shields.io/badge/Website-tasteio.in-e58e26?style=for-the-badge&logo=shopify&logoColor=white" /></a>
   <a href="https://www.youtube.com/@k.Wilfredvincent"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://www.instagram.com/k.wilfredvincent"><img src="https://img.shields.io/badge/Instagram-@k.wilfredvincent-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.instagram.com/wilfred_irl"><img src="https://img.shields.io/badge/Instagram-@wilfred__irl-C13584?style=for-the-badge&logo=instagram&logoColor=white" /></a>
